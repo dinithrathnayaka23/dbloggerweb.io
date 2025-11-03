@@ -1,0 +1,18 @@
+USER---> (Landing Page)
+Start writing free button-->Sign Up
+Explore Stories button-->Navigate to a Dashboard Home Page where the user can read stories without signing in or log in
+Create Free account--->Sign Up
+ 
+Dashboard--Home(Here Users should be able to read blogs in home page without sign in.)-- sign and login buttons should appear here in upper nav bar
+Dashboard--Write blog--Must sign up or login before writing--after signing up or login then profile section appears in upper nav bar with DP and name and mail
+Dashboard--Edit, Update, Delete blog--Must be signed up or logged In. Here the user should be able to edit and update content as well should be able to delete 	   the blog
+Dashboard--Profile section--Here this page should show the signed up details and then also should show the previously written blogs by the particular user.
+Dashboard--Should Have a option to logout.
+
+
+Dashboard-Should contain horizontal and well as vertical nav bars
+
+Sign Up + Log in-->Google and Facebook Auth can be used apart from Email and password option. 
+
+
+write blog--Should be able to type text as well as to add images to the blog and then when published that should be appeared in the Home Page
